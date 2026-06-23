@@ -1,0 +1,1 @@
+Download the notebook: https://colab.research.google.com/github/WayneDalton/scripting/blob/main/session1.ipynb 
