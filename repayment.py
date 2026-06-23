@@ -33,9 +33,12 @@ PV = args.amount
 i = args.rate / 100 / 12  # Works perfectly with float values now
 n = args.term
 
-# Formula math
-t = (1 + i) ** n
-PMT = (PV * i * t) / (t - 1)
+# Formula math - with divide-by-zero avoidance
+if i == 0:
+    PMT = PV /  n
+else:
+    t = (1 + i) ** n
+    PMT = (PV * i * t) / (t - 1)
 
 # Give the answer to the user
 print(f"Loan repayment: R{PMT:.2f} per month.")
