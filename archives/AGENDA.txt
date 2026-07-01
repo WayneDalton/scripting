@@ -1,0 +1,10 @@
+AGENDA
+------
+1. Input & Output (statements)
+2. Numerical calculations (expressions & number data types)
+3. Lists & Strings (slicing)
+4. Dictionaries & sets (lookups & membership)
+5. Random numbers
+6. Conditional execution (IF)
+7. Loops (FOR, LOOP)
+8. Functions

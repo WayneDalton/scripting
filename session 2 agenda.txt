@@ -1,0 +1,21 @@
+AGENDA
+------
+1. OVERVIEW OF NOTES
+
+2. DEMONSTRATIONS
+  
+ A: PYTHON DATA TYPES
+  - List & Strings
+  * slicing
+  - Dictionaries & Sets
+  * membership and uniqueness
+  * Comprehensions
+
+ B: FLOW OF CONTROL
+  - conditional execution (if statement)
+  - loop execution (while and for statements)
+
+ C: FUNCTIONS
+  - defining a function
+  - arguments and parameters
+  - 3 types of parameters

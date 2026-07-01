@@ -1,0 +1,17 @@
+dog
+cat
+elephant
+mouse
+chicken
+rat
+bat
+gnat
+====================
+There are 8 animals.
+
+Paul McCarthy
+John Lennon
+Ringo Starr
+George Harrison
+====================
+There are 4 members of the Beatles.
